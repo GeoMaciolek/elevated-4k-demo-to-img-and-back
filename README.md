@@ -5,7 +5,7 @@
 
 This is a guide on converting the amazing
 ["Elevated" 4k demo (2009)](https://www.pouet.net/prod_nfo.php?which=52938) 
-(see also [source code](https://github.com/in4k/rgba_tbc_elevated_source)) &
+(see also [source code](https://github.com/in4k/rgba_tbc_elevated_source) &
 [Youtube Video](https://www.youtube.com/watch?v=jB0vBmiTr6o)) to an image file,
 and then back to an executable.
 

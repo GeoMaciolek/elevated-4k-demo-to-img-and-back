@@ -10,15 +10,15 @@ This is a guide on converting the amazing
 and then back to an executable.
 
 Why? I find that having this demo displayed as a 1-bit black & white bitmap
-image helps provide some context as to just how small 4k truly is. In the
-image shown below, every single bit that makes up the **Elevated** demo is
-shown - with white pixels for 1s and black pixels for 0s.
+image helps provide some context as to just how small 4k truly is. In one of
+the images below, every single bit that makes up the **Elevated** demo is
+shown - with white pixels for 1s and black pixels for 0s. Compare to the
+low-resolution, compressed screenshot of the demo, fully 18 kilobytes, or more
+than 3x the size!
 
-![Elevated 4k As An Image](elevated-192x170-zeropadded.png)
-
-Compare to this low-resolution, compressed screenshot of the demo, at 18k, or
-more than 3x the size!
-![Screenshot of Elevated demo](https://media.demozoo.org/screens/s/64/15/e43c.793.jpg)
+Direct 4k Representation | Screenshot
+:-----------------------:|:----------:|
+![Elevated 4k As An Image](elevated-192x170-zeropadded.png)|![Screenshot of Elevated demo](https://media.demozoo.org/screens/s/64/15/e43c.793.jpg)
 
 ### Requirements
 

@@ -15,7 +15,9 @@ shown - with white pixels for 1s and black pixels for 0s.
 
 ![Elevated 4k As An Image](elevated-192x170-zeropadded.png)
 
-## Doing It
+Compare to this low-resolution, compressed screenshot of the demo, at 18k, or
+more than 3x the size!
+![Screenshot of Elevated demo](https://media.demozoo.org/screens/s/64/15/e43c.793.jpg)
 
 ### Requirements
 
@@ -72,4 +74,11 @@ tail -n +4 elev-decoded-stage1.pbm > elevated-demo-decoded.exe
 ```
 
 Now, give that EXE file a try!
+
+## Credits
+
+* The Elevated 4k Demo Authors (TBC and rgba / rgba and TBC)
+* pouet.net
+* scene.org
+* authors of imagemagick, unzip, wget, bash, etc
 

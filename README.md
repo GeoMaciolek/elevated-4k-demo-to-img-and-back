@@ -16,8 +16,8 @@ shown - with white pixels for 1s and black pixels for 0s. Compare to the
 low-resolution, compressed screenshot of the demo, fully 18 kilobytes, or more
 than 3x the size!
 
-Direct 4k Representation | Screenshot
-:-----------------------:|:----------:|
+Direct Bit Representation (4k) | Screenshot (18k)
+:-----------------------------:|:----------------:|
 ![Elevated 4k As An Image](elevated-192x170-zeropadded.png)|![Screenshot of Elevated demo](https://media.demozoo.org/screens/s/64/15/e43c.793.jpg)
 
 ### Requirements

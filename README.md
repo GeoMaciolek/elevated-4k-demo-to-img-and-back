@@ -5,8 +5,8 @@
 
 This is a guide on converting the amazing
 ["Elevated" 4k demo (2009)](https://www.pouet.net/prod_nfo.php?which=52938) 
-[(source code)](https://github.com/in4k/rgba_tbc_elevated_source) to an image
-file, and then back to an executable.
+(see also [source code](https://github.com/in4k/rgba_tbc_elevated_source)) to
+an image file, and then back to an executable.
 
 Why? I find that having this demo displayed as a 1-bit black & white bitmap
 image helps provide some context as to just how small 4k truly is. In the

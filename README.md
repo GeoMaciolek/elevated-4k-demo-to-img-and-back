@@ -1,7 +1,8 @@
 # Elevated 4k to Image & Back
 
-
 ## Overview
+
+<img align="right" src="elevated-192x170-zeropadded.png">
 
 This is a guide on converting the amazing
 ["Elevated" 4k demo (2009)](https://www.pouet.net/prod_nfo.php?which=52938) 
@@ -9,16 +10,45 @@ This is a guide on converting the amazing
 [Youtube Video](https://www.youtube.com/watch?v=jB0vBmiTr6o)) to an image file,
 and then back to an executable.
 
-Why? I find that having this demo displayed as a 1-bit black & white bitmap
-image helps provide some context as to just how small 4k truly is. In one of
-the images below, every single bit that makes up the **Elevated** demo is
-shown - with white pixels for 1s and black pixels for 0s. Compare to the
+### What is "Elevated 4k?"
+
+Without going into the details of the [demoscene](https://en.wikipedia.org/wiki/Demoscene),
+in short, ["Elevated"](https://www.pouet.net/prod_nfo.php?which=52938) is a
+computer program/app that was written to demonstrate programming prowess, and
+to push the limits of what can be done on a computer. It shows a tour around a
+3d-rendered landscape, while synchronized music plays in the background.
+
+Normally, in the 21st century, most graphical computer software uses a fair
+bit (pun unintended) of disk space. From watching **Elevated**, one might
+estimate that it would use at minimum ~10MB of storage, or 10,000kilobytes.
+Instead, the entire program is 4 kilobytes - which is shocking when truly
+considered. For example, the text of the document you are reading now is about
+4.3 kilobytes, without including the images or HTML!
+
+### Why is this shocking / what is "Elevated 4k to Image & Back"
+
+"4 Kilobytes" by itself isn't very meaningful to most people; even among
+computer programmers, we don't usually have much context for it. This page
+shows what the demo's entire 4k file looks like as a 1-bit black & white
+bitmap image. Every single bit - the smallest unit of computer data)
+is displayed as a single pixel / dot.
+
+In one of the images below, every single bit that makes up the **Elevated**
+demo is shown - with white pixels for 1s and black pixels for 0s. Compare to the
 low-resolution, compressed screenshot of the demo, fully 18 kilobytes, or more
 than 3x the size!
 
 Direct Bit Representation (4k) | Screenshot (18k)
 :-----------------------------:|:----------------:|
 ![Elevated 4k As An Image](elevated-192x170-zeropadded.png)|![Screenshot of Elevated demo](https://media.demozoo.org/screens/s/64/15/e43c.793.jpg)
+
+### So Now What?
+
+This page details how you can do this yourself - convert this demo (or
+potentially other files) into an image like the one shown here, to see for
+yourself that yes, these tiny images do in fact contain the entire demo!
+
+## The Data Conversion
 
 ### Requirements
 
